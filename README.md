@@ -160,14 +160,30 @@ Para um perfil mais profissional, acesse meu LinkedIn: "[Guilherme Coelho Silva]
 
 
 <p>
-  <img 
+  <img
+    align="left"
     height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Zer0coelho&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br" 
   />
-
-  <img 
- alt="Top Langs" 
- height="200" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0coelho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+  <img
+    align="left"
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0coelho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
+  <img
+    align="right"
+    src="https://media1.tenor.com/m/6wgIswjUj-YAAAAC/chainsaw-man-csm.gif" 
+    width="200"
+  />
 </p>
+
+
+
+
+
+
+
+
+
+
