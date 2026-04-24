@@ -162,7 +162,7 @@ Para um perfil mais profissional, acesse meu LinkedIn: "[Guilherme Coelho Silva]
 ### 📊 Estatísticas
 
 
-<p align="center">
+<p>
   <img 
     height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Zer0coelho&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br" 
