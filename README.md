@@ -70,6 +70,10 @@ goal:     Construir uma base sólida como
       <sub>Java</sub>
     </td>
     <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36"/><br/>
       <sub>C</sub>
     </td>
@@ -106,6 +110,10 @@ goal:     Construir uma base sólida como
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="36"/><br/>
       <sub>Notion</sub>
+    </td>
+     <td align="center" width="80">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+       <sub>Canva</sub>
     </td>
   </tr>
 </table>
