@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Guilherme+Coelho" alt="Guilherme Coelho"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Systems+Developer;IA+%7C+Mercado+Financeiro+%7C+Open+Source;Ciencia+da+Computacao+-+3°+periodo" alt="Typing roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Systems+Developer;IA+%7C+Mercado+Financeiro+%7C+Open+Source;Ciencia+da+Computacao+-+3o+periodo" alt="Typing roles"/>
 
 <br/>
 
